@@ -1,0 +1,1 @@
+Este curso está sendo muito interessante, dinâmico e bastante elucidativo a respeito de dúvidas sobre programação e Git.
